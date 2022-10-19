@@ -22,3 +22,5 @@ redirect_from:
 ## 我的博客
 * [GitHub](https://github.com/CMJZM)
 * [CSDN](https://blog.csdn.net/m0_62522429?spm=1011.2124.3001.5343)
+* [CV]https://cmjzm.github.io/Resume.github.io/<br>
+https://cmjzm.github.io/Resume.github.io/EnHome.html
