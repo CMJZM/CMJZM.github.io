@@ -9,51 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+崔梦杰(Mengjie Cui)
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 本科生
+* 软件工程
+* 中共预备党员
+* 华北水利水电大学
+* 郑州,河南,中国
+* 手机: +86 166 9233 4699
+* 邮箱: 1050458640@qq.com
 
-Work experience
+关于我
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 熟悉Java和C语言,了解python
+* 熟悉SQL Server、MySQL等数据库操作，了解Oracle数据库操作
+* 熟练运用各类办公软件以及进行一些高级数据处理和分析导入导出
+* 我的研究兴趣主要包括: 实时物体检测，Android应用开发等
+  
+教育经历
+======
+* 本科 华北水利水电大学 (2019.9 ~ 2023.7)
+* 院系专业: 信息工程学院，软件工程
+* 专业排名: 10/213; GPA: 4.03/5.0
+* 奖学金: 一等优秀学生奖学金、二等学业奖学金
+* 荣誉称号: 校“优秀共青团员”荣誉称号、校“优秀学生干部”荣誉称号
+* 比赛获奖: 第十五届中国大学生计算机设计大赛省级二等奖、校第二届“核+X”创意大赛二等奖等
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+校园经历
+======
+* 华北水利水电大学创益蜂巢创始人
+* 院学生会执行主席
   
-Skills
+软件著作
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*元宇宙计算机视觉目标检测管理软件
   
-Talks
+其他项目
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+*“蓝箭”APP——做您独有的守护伞（人身安全保护类APP）
+*基于yolov5检测的视频处理系统
+*基于多层神经网络的线上课堂舆情检测系统
   
-Teaching
+其他能力
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*所撰写学校新闻稿件，项目申报书等采用率达 80%，无需学校领导大篇幅修改
+*摄影制图与视频剪辑：掌握基本的摄影、海报设计、修图、视频制作与后期剪辑技巧，能高效率完成相应工作
+*良好的沟通交际能力，能及时通过对话中对方的一些细节或者行为脸色来做出不同的应对，给人以最舒服的沟通交流体验
+*责任心强，有独立工作能力强，有团队精神
